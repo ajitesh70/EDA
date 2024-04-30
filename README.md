@@ -16,9 +16,8 @@ The dataset contains various features related to kidney disease diagnosis, inclu
 1. **Data Loading:** Load the dataset into a Pandas DataFrame.
 2. **Data Cleaning:** Handle missing values, data type conversions, and outliers.
 3. **Data Exploration:** Compute descriptive statistics, visualize variable distributions, and identify correlations between features.
-4. **Feature Engineering:** Create new features and perform transformations.
-5. **Data Visualization:** Visualize relationships between variables, detect patterns, and identify trends.
-6. **Insights Generation:** Derive meaningful insights, identify important features, and understand their impact on the target variable.
+4. **Data Visualization:** Visualize relationships between variables, detect patterns, and identify trends.
+5. **Insights Generation:** Derive meaningful insights, identify important features, and understand their impact on the target variable.
 
 **Conclusion:**
 Through this EDA process, we aim to gain valuable insights into the dataset related to kidney disease, which can aid in understanding factors influencing the diagnosis and potentially contribute to the development of predictive models for early detection and diagnosis.
